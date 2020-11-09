@@ -1,6 +1,6 @@
 # SIIM-ISIC Melanoma Classification
 
-Este proyecto, que parte de la competición de Kaggle que le da nombre, no tiene otro objetivo que el de ilustrar y demostrar distintos conceptos claves sobre la visión artificial. 
+Este proyecto, que parte de la competición de Kaggle que le da nombre, no tiene otro objetivo que el de ilustrar y demostrar distintos conceptos claves sobre la visión artificial. Esta competición consiste en clasificar con la mayor precisión posible fotografías de marcas en la piel como melanomas (y por lo tanto maligno) o benignas. Debido al pequeño tamaño del dataset inicial se ha usado uno ampliado.
 
 A pesar de no ser su objetivo obtener un buen resultado, se ha logrado sobre los datos de validación un porcentaje de acierto del 94.3% haciendo uso de una EfficientNet preentrenada y un data augmentation moderadamente agresivo.
 El resultado habría sido probablemente mejorado con un hardware superior pero todo el trabajo ha sido realizado en Google Colab y haciendo uso de Google Drive como soporte, lo que ha limitado mucho el avance por distintos motivos.

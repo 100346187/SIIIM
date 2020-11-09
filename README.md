@@ -4,7 +4,7 @@ Este proyecto, que parte de la competición de Kaggle que le da nombre, no tiene
 
 A pesar de no ser su objetivo obtener un buen resultado, se ha logrado sobre los datos de validación un porcentaje de acierto del 94.3% haciendo uso de una EfficientNet preentrenada y un data augmentation moderadamente agresivo.
 El resultado habría sido probablemente mejorado con un hardware superior pero todo el trabajo ha sido realizado en Google Colab y haciendo uso de Google Drive como soporte, lo que ha limitado mucho el avance por distintos motivos.
-Se puede acceder al mejor modelo obtenido en el archivo model_1_256_2.
+El modelo no se ha podido subir a Github por su tamaño.
 
 En este proyecto se han demostrado las siguientes competencias en lo que a Deep Learning y Computer Vision se refiere:
 - Uso de librerías tales como Pandas, Numpy o Pytorch.
